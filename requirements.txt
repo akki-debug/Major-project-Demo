@@ -9,3 +9,4 @@ prophet
 statsmodels
 tensorflow
 scikit-learn
+ta
